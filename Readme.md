@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Arman Kh](https://up.htmlacademy.ru/javascript/19/user/1144819).
-* Наставник: `Неизвестно`.
+* Наставник: [Alexandr Kobrin](https://htmlacademy.ru/profile/id1321533).
 
 ---
 
